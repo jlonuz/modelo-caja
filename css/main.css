@@ -1,3 +1,16 @@
-/** 
-Escribir el CSS necesario aqui
-*/
+p 	{
+	border: 1px dashed black;
+	padding: 10px;
+	background-color: yellow;
+
+}
+
+div 	{
+	text-align: center;
+	background-color: green;
+	padding: 15px 10px 20px 30px;
+	margin: 100px;
+	border-width: 20px 15px;
+	border-color: purple;
+	border-style: solid;
+}
